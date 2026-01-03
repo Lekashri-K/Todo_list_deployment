@@ -1,19 +1,19 @@
-📝 To-Do List Web Application
+**📝 To-Do List Web Application**
 
 A mobile-responsive web-based To-Do List application built using HTML, CSS, and JavaScript.  
 It helps users manage daily tasks with priority levels, persistent storage, real-time statistics, and motivational features.
 
 --------------------------------------------------
 
-🚀 Live Demo  
+**🚀 Live Demo**
 https://todo-list-deployment-beta.vercel.app/
 
-💻 GitHub Repository  
+**💻 GitHub Repository**
 https://github.com/Lekashri-K/Todo_list_deployment
 
 --------------------------------------------------
 
-📸 Screenshots
+**📸 Screenshots**
 
 🌙 Dark Mode  
 
@@ -25,7 +25,8 @@ https://github.com/Lekashri-K/Todo_list_deployment
 
 --------------------------------------------------
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**  
+
 - HTML
 - CSS
 - JavaScript
@@ -36,7 +37,7 @@ https://github.com/Lekashri-K/Todo_list_deployment
 
 --------------------------------------------------
 
-✨ Features
+**✨ Features**  
 
 ✅ Task Create, Read, Update, Delete operations  
 🔴 Task priority levels (High / Medium / Low)  
@@ -49,7 +50,7 @@ https://github.com/Lekashri-K/Todo_list_deployment
 
 --------------------------------------------------
 
-⚙️ How It Works
+**⚙️ How It Works** 
 
 Tasks are dynamically managed using JavaScript DOM manipulation.  
 Task data is stored using the Web Storage API to ensure persistence after page refresh.  
@@ -58,7 +59,7 @@ UI updates happen in real time without page reload.
 
 --------------------------------------------------
 
-📂 Project Structure
+**📂 Project Structure** 
 
 Todo_list_deployment/  
 index.html  
@@ -68,7 +69,7 @@ README.md
 
 --------------------------------------------------
 
-🧪 Run Locally
+**🧪 Run Locally** 
 
 1. Clone the repository  
 git clone https://github.com/Lekashri-K/Todo_list_deployment.git  
@@ -79,8 +80,9 @@ git clone https://github.com/Lekashri-K/Todo_list_deployment.git
 
 --------------------------------------------------
 
-👩‍💻 Author
+**👩‍💻 Author**
 
 Lekashri  
 [GitHub](https://github.com/Lekashri-K)
+
 

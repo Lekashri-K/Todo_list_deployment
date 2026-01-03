@@ -26,7 +26,7 @@ https://github.com/Lekashri-K/Todo_list_deployment
 --------------------------------------------------
 
 🛠️ Technologies Used
-- HTML5
+- HTML
 - CSS
 - JavaScript
 - Web Storage API (LocalStorage)
@@ -83,3 +83,4 @@ git clone https://github.com/Lekashri-K/Todo_list_deployment.git
 
 Lekashri  
 [GitHub](https://github.com/Lekashri-K)
+
